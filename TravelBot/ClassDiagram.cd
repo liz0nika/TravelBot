@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TravelBot.TravelBot">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <AssociationLine Name="_isFeedbackText" Type="System.Boolean" ManuallyRouted="true">
+      <Path>
+        <Point X="1.25" Y="3.853" />
+        <Point X="1.25" Y="4.109" />
+        <Point X="3.5" Y="4.109" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAIAMEAAACAAiQgABAAEAAAAiAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>TravelBot.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="_isFeedbackText" />
+      <Field Name="allClients" />
+      <Field Name="botClient" />
+      <Field Name="receiverOptions" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TravelBot.Models.Datum">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <AssociationLine Name="bubbleRating" Type="TravelBot.Models.Bubblerating">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.287" Y="0.122" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>BAIAABQCQAAAARAAAIAAAAgAAAAAAAAAAAAAIAAAQgA=</HashCode>
+      <FileName>Models\Hotels.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="bubbleRating" />
+      <Property Name="cardPhotos" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TravelBot.Models.Bubblerating" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Hotels.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="rating" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TravelBot.Models.Cardphoto">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Hotels.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="sizes" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TravelBot.Models.Sizes">
+    <Position X="13" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAACAAAAAAAAAAAAAAIAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Models\Hotels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Boolean" Collapsed="true">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="System.Collections.Generic.Dictionary&lt;TKey, TValue&gt;" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="Telegram.Bot.TelegramBotClient" Collapsed="true">
+    <Position X="3.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Telegram.Bot.Polling.ReceiverOptions" Collapsed="true">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="TravelBot.Client">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <AssociationLine Name="checkinHotel" Type="System.String" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="6.75" />
+        <Point X="3.012" Y="6.75" Type="JumpStart" />
+        <Point X="3.179" Y="6.75" Type="JumpEnd" />
+        <Point X="3.5" Y="6.75" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.401" Y="0.06" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="checkoutHotel" Type="System.String" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="5.608" />
+        <Point X="3.012" Y="5.608" Type="JumpStart" />
+        <Point X="3.179" Y="5.608" Type="JumpEnd" />
+        <Point X="3.625" Y="5.608" />
+        <Point X="3.625" Y="6.25" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.444" Y="0.598" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="_city" Type="System.String" FixedToPoint="true">
+      <Path>
+        <Point X="2" Y="6.375" />
+        <Point X="3.012" Y="6.375" Type="JumpStart" />
+        <Point X="3.179" Y="6.375" Type="JumpEnd" />
+        <Point X="3.5" Y="6.375" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.899" Y="0.091" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="_hotels" Type="TravelBot.Models.Hotels" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.938" Y="7.19" />
+        <Point X="1.938" Y="8.031" />
+        <Point X="3.012" Y="8.031" Type="JumpStart" />
+        <Point X="3.179" Y="8.031" Type="JumpEnd" />
+        <Point X="3.5" Y="8.031" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="_geoidhotel" Type="System.Boolean" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.25" Y="5.25" />
+        <Point X="1.25" Y="4.281" />
+        <Point X="3.5" Y="4.281" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.795" Y="-0.241" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="_id" Type="TravelBot.Models.ID" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="1.188" Y="7.19" />
+        <Point X="1.188" Y="9.031" />
+        <Point X="3.5" Y="9.031" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQCAAAAAIAABAAAAABAAAAAAAAQABAQACAhA=</HashCode>
+      <FileName>Client.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="checkinHotel" />
+      <Property Name="checkoutHotel" />
+      <Property Name="_city" />
+      <Property Name="_hotels" />
+      <Property Name="_geoidhotel" />
+      <Property Name="_id" />
+      <Property Name="geoidhotel" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.String" Collapsed="true">
+    <Position X="3.5" Y="6.25" Width="2" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TravelBot.Models.Hotels" Collapsed="true">
+    <Position X="3.5" Y="7.75" Width="1.5" />
+    <AssociationLine Name="status" Type="System.Boolean" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="7.845" />
+        <Point X="5.026" Y="7.845" Type="JumpStart" />
+        <Point X="5.505" Y="7.845" Type="JumpEnd" />
+        <Point X="5.75" Y="7.845" />
+        <Point X="5.75" Y="4.438" />
+        <Point X="5" Y="4.438" />
+      </Path>
+    </AssociationLine>
+    <AssociationLine Name="timestamp" Type="System.Int64" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5" Y="7.938" />
+        <Point X="5.026" Y="7.937" Type="JumpStart" />
+        <Point X="5.505" Y="7.938" Type="JumpEnd" />
+        <Point X="5.792" Y="7.937" Type="JumpStart" />
+        <Point X="5.958" Y="7.938" Type="JumpEnd" />
+        <Point X="6.75" Y="7.938" />
+        <Point X="6.75" Y="7.5" />
+        <Point X="7.917" Y="7.5" Type="JumpStart" />
+        <Point X="8.083" Y="7.5" Type="JumpEnd" />
+        <Point X="10.25" Y="7.5" />
+        <Point X="10.25" Y="8" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.683" Y="0.058" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="data" Type="TravelBot.Models.Data">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.601" Y="-0.245" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAACA=</HashCode>
+      <FileName>Models\Hotels.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="data" />
+      <Property Name="message" />
+      <Property Name="status" />
+      <Property Name="timestamp" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="TravelBot.Models.ID" Collapsed="true">
+    <Position X="3.5" Y="8.75" Width="1.5" />
+    <AssociationLine Name="status" Type="System.Boolean" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="8.875" />
+        <Point X="3.096" Y="8.875" />
+        <Point X="3.096" Y="4.685" />
+        <Point X="3.688" Y="4.685" />
+        <Point X="3.688" Y="4.562" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.054" Y="0.162" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAQAAAAACA=</HashCode>
+      <FileName>Models\ID.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="data" />
+      <Property Name="message" />
+      <Property Name="status" />
+      <Property Name="timestamp" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.Int32" Collapsed="true">
+    <Position X="3.5" Y="10.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TravelBot.Models.Data" Collapsed="true">
+    <Position X="7" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Models\Hotels.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="data" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="System.Int64" Collapsed="true">
+    <Position X="9.5" Y="8" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TravelBot.Models.Datum1">
+    <Position X="7" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CgAgAAAAQAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ID.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Single" Collapsed="true">
+    <Position X="13" Y="3.75" Width="1.5" />
+    <TypeIdentifier />
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="TravelBot.Models.Information">
+    <Position X="1.5" Y="11.5" Width="2" />
+    <AssociationLine Name="title" Type="System.String" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.062" Y="12.368" />
+        <Point X="3.062" Y="12.743" />
+        <Point X="5.875" Y="12.743" />
+        <Point X="5.875" Y="6.5" />
+        <Point X="5.833" Y="6.5" Type="JumpStart" />
+        <Point X="5.667" Y="6.5" Type="JumpEnd" />
+        <Point X="5.5" Y="6.5" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-1.528" Y="-6.14" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="image" Type="System.String" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="12" />
+        <Point X="5.25" Y="12" />
+        <Point X="5.25" Y="6.812" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.54" Y="5.206" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="summary" Type="System.String" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="12.25" />
+        <Point X="5.422" Y="12.25" />
+        <Point X="5.422" Y="6.812" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.683" Y="4.979" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="url" Type="System.String" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="3.5" Y="11.75" />
+        <Point X="5.109" Y="11.75" />
+        <Point X="5.109" Y="6.812" />
+      </Path>
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.588" Y="4.764" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAAAAEAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>Models\Information.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="title" />
+      <Property Name="image" />
+      <Property Name="summary" />
+      <Property Name="url" />
+    </ShowAsAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

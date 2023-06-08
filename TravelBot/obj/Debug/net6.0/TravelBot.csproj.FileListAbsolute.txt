@@ -1,0 +1,84 @@
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\appsettings.json
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.exe
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.deps.json
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.runtimeconfig.json
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.pdb
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Polly.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Polly.Extensions.Http.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Telegram.Bots.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\bin\Debug\net6.0\Telegram.Bots.Extensions.Polling.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.AssemblyInfoInputs.cache
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.AssemblyInfo.cs
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets\msbuild.TravelBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets\msbuild.build.TravelBot.props
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TravelBot.props
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TravelBot.props
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\scopedcss\bundle\TravelBot.styles.css
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.csproj.CopyComplete
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\refint\TravelBot.dll
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.pdb
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.genruntimeconfig.cache
+C:\Users\user\Documents\Документы Лизы\TravelBot\TravelBot\obj\Debug\net6.0\ref\TravelBot.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.csproj.AssemblyReference.cache
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.AssemblyInfoInputs.cache
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.AssemblyInfo.cs
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.csproj.CoreCompileInputs.cache
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\refint\TravelBot.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.pdb
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\appsettings.json
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.exe
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.deps.json
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.runtimeconfig.json
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\TravelBot.pdb
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.Extensions.Configuration.UserSecrets.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.Extensions.Hosting.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.Extensions.Http.Polly.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Polly.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Polly.Extensions.Http.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Telegram.Bot.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Telegram.Bots.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\bin\Debug\net6.0\Telegram.Bots.Extensions.Polling.dll
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets\msbuild.TravelBot.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets\msbuild.build.TravelBot.props
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TravelBot.props
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TravelBot.props
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\scopedcss\bundle\TravelBot.styles.css
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.csproj.CopyComplete
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\TravelBot.genruntimeconfig.cache
+C:\Users\ospc\Documents\Программирование\TravelBot\TravelBot\obj\Debug\net6.0\ref\TravelBot.dll
